@@ -1,1 +1,0 @@
-package gt.edu.umes.proy.calculo;
