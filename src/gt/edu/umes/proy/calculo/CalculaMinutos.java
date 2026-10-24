@@ -9,7 +9,7 @@ public class CalculaMinutos{
 		if (!ldn.validarParametros(valores))
 			return;  //si no son validos sale.
 		
-	//si los parametros son validos,
+	//si los parametros son validos, y son solo numeros enteros
 		
 	//convierte los parametros a enteros:
 		
