@@ -9,9 +9,9 @@ public class CalculaMinutos{
 		if (!ldn.validarParametros(valores))
 			return;  //si no son validos sale.
 		
-	//si los parametros son validos, y son solo numeros enteros
+	//si los parametros son validos, y son solo numeros enteros.
 		
-	//convierte los parametros a enteros:
+	//convierte los parametros a numeros enteros:
 		
 		int meses = Integer.parseInt(valores[0]);
 		
